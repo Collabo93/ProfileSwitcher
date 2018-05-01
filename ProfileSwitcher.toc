@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: ProfileSwitcher
+## Version: 1.1
+## Author: Collabo93
+## Notes: Automatic profile switch
+## SavedVariablesPerCharacter: ProfileSwitcher_SavedVariables_DB
+embeds.xml
+Locale\Locales.xml
+ProfileSwitcher.lua
